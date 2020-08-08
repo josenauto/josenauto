@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, my name is Jose 👋
 
+- I live in Santiago, Chile.
+- I am a programmer and I am currently learning and working on Javascript based projects.
+
+I share the repositories in which I have worked lately:
+
+1. https://github.com/josenauto/Express-web-framework
 <!--
 **josenauto/josenauto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
